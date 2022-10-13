@@ -1,0 +1,1656 @@
+local Cur = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local ImageButton = Instance.new("ImageButton")
+local UICorner = Instance.new("UICorner")
+local ImageButton_2 = Instance.new("ImageButton")
+local UICorner_2 = Instance.new("UICorner")
+local ImageButton_3 = Instance.new("ImageButton")
+local UICorner_3 = Instance.new("UICorner")
+local ImageButton_4 = Instance.new("ImageButton")
+local UICorner_4 = Instance.new("UICorner")
+local ImageButton_5 = Instance.new("ImageButton")
+local UICorner_5 = Instance.new("UICorner")
+local ImageButton_6 = Instance.new("ImageButton")
+local UICorner_6 = Instance.new("UICorner")
+local ImageButton_7 = Instance.new("ImageButton")
+local UICorner_7 = Instance.new("UICorner")
+local ImageButton_8 = Instance.new("ImageButton")
+local UICorner_8 = Instance.new("UICorner")
+local ImageButton_9 = Instance.new("ImageButton")
+local UICorner_9 = Instance.new("UICorner")
+local ImageButton_10 = Instance.new("ImageButton")
+local UICorner_10 = Instance.new("UICorner")
+local ImageButton_11 = Instance.new("ImageButton")
+local UICorner_11 = Instance.new("UICorner")
+local ImageButton_12 = Instance.new("ImageButton")
+local UICorner_12 = Instance.new("UICorner")
+local ImageButton_13 = Instance.new("ImageButton")
+local UICorner_13 = Instance.new("UICorner")
+local ImageButton_14 = Instance.new("ImageButton")
+local UICorner_14 = Instance.new("UICorner")
+local ImageButton_15 = Instance.new("ImageButton")
+local UICorner_15 = Instance.new("UICorner")
+local ImageButton_16 = Instance.new("ImageButton")
+local UICorner_16 = Instance.new("UICorner")
+local ImageButton_17 = Instance.new("ImageButton")
+local UICorner_17 = Instance.new("UICorner")
+local ImageButton_18 = Instance.new("ImageButton")
+local UICorner_18 = Instance.new("UICorner")
+local ImageButton_19 = Instance.new("ImageButton")
+local UICorner_19 = Instance.new("UICorner")
+local ImageButton_20 = Instance.new("ImageButton")
+local UICorner_20 = Instance.new("UICorner")
+local ImageButton_21 = Instance.new("ImageButton")
+local UICorner_21 = Instance.new("UICorner")
+local ImageButton_22 = Instance.new("ImageButton")
+local UICorner_22 = Instance.new("UICorner")
+local ImageButton_23 = Instance.new("ImageButton")
+local UICorner_23 = Instance.new("UICorner")
+local ImageButton_24 = Instance.new("ImageButton")
+local UICorner_24 = Instance.new("UICorner")
+local ImageButton_25 = Instance.new("ImageButton")
+local UICorner_25 = Instance.new("UICorner")
+local ImageButton_26 = Instance.new("ImageButton")
+local UICorner_26 = Instance.new("UICorner")
+local ImageButton_27 = Instance.new("ImageButton")
+local UICorner_27 = Instance.new("UICorner")
+local ImageButton_28 = Instance.new("ImageButton")
+local UICorner_28 = Instance.new("UICorner")
+local ImageButton_29 = Instance.new("ImageButton")
+local UICorner_29 = Instance.new("UICorner")
+local ImageButton_30 = Instance.new("ImageButton")
+local UICorner_30 = Instance.new("UICorner")
+local ImageButton_31 = Instance.new("ImageButton")
+local UICorner_31 = Instance.new("UICorner")
+local ImageButton_32 = Instance.new("ImageButton")
+local UICorner_32 = Instance.new("UICorner")
+local ImageButton_33 = Instance.new("ImageButton")
+local UICorner_33 = Instance.new("UICorner")
+local ImageButton_34 = Instance.new("ImageButton")
+local UICorner_34 = Instance.new("UICorner")
+local ImageButton_35 = Instance.new("ImageButton")
+local UICorner_35 = Instance.new("UICorner")
+local ImageButton_36 = Instance.new("ImageButton")
+local UICorner_36 = Instance.new("UICorner")
+local ImageButton_37 = Instance.new("ImageButton")
+local UICorner_37 = Instance.new("UICorner")
+local ImageButton_38 = Instance.new("ImageButton")
+local UICorner_38 = Instance.new("UICorner")
+local ImageButton_39 = Instance.new("ImageButton")
+local UICorner_39 = Instance.new("UICorner")
+local ImageButton_40 = Instance.new("ImageButton")
+local UICorner_40 = Instance.new("UICorner")
+local UICorner_41 = Instance.new("UICorner")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+local UICorner_42 = Instance.new("UICorner")
+
+local tama = "40"
+
+Cur.Name = "UDim2.new(0, 40, 0, 40)"
+Cur.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Cur.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = Cur
+Frame.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+Frame.Position = UDim2.new(0.0256974995, 0, 0.0538373441, 0)
+Frame.Size = UDim2.new(0, 406, 0, 523)
+Frame.Active = true
+Frame.Draggable = true
+
+
+ScrollingFrame.Parent = Frame
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+ScrollingFrame.BorderColor3 = Color3.fromRGB(25, 25, 25)
+ScrollingFrame.Position = UDim2.new(0.00763600925, 0, 0.165306896, 0)
+ScrollingFrame.Size = UDim2.new(0, 402, 0, 413)
+ScrollingFrame.CanvasPosition = Vector2.new(0, 1156)
+ScrollingFrame.CanvasSize = UDim2.new(0, 0, 3, 0)
+ScrollingFrame.ScrollBarThickness = 14
+
+ImageButton.Parent = ScrollingFrame
+ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton.BackgroundTransparency = 5.000
+ImageButton.Size = UDim2.new(0, 108, 0, 107)
+ImageButton.Image = "http://www.roblox.com/asset/?id=11254527080"
+ImageButton.MouseButton1Down:Connect(function()
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254527080"
+	
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner.CornerRadius = UDim.new(0, 13)
+UICorner.Parent = ImageButton
+
+ImageButton_2.Parent = ScrollingFrame
+ImageButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_2.BackgroundTransparency = 5.000
+ImageButton_2.Position = UDim2.new(0.365671635, 0, 0.0676136464, 0)
+ImageButton_2.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_2.Image = "http://www.roblox.com/asset/?id=11254519830"
+ImageButton_2.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254519830"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_2.CornerRadius = UDim.new(0, 13)
+UICorner_2.Parent = ImageButton_2
+
+ImageButton_3.Parent = ScrollingFrame
+ImageButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_3.BackgroundTransparency = 5.000
+ImageButton_3.Position = UDim2.new(0, 0, 0.0676136464, 0)
+ImageButton_3.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_3.Image = "http://www.roblox.com/asset/?id=11254520780"
+ImageButton_3.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254520780"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_3.CornerRadius = UDim.new(0, 13)
+UICorner_3.Parent = ImageButton_3
+
+ImageButton_4.Parent = ScrollingFrame
+ImageButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_4.BackgroundTransparency = 5.000
+ImageButton_4.Position = UDim2.new(0.684052587, 0, 0, 0)
+ImageButton_4.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_4.Image = "http://www.roblox.com/asset/?id=11254522259"
+ImageButton_4.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254522259"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_4.CornerRadius = UDim.new(0, 13)
+UICorner_4.Parent = ImageButton_4
+
+ImageButton_5.Parent = ScrollingFrame
+ImageButton_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_5.BackgroundTransparency = 5.000
+ImageButton_5.Position = UDim2.new(0.363630205, 0, 0, 0)
+ImageButton_5.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_5.Image = "http://www.roblox.com/asset/?id=11254523263"
+ImageButton_5.MouseButton1Down:Connect(function()
+
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254523263"
+
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_5.CornerRadius = UDim.new(0, 13)
+UICorner_5.Parent = ImageButton_5
+
+ImageButton_6.Parent = ScrollingFrame
+ImageButton_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_6.BackgroundTransparency = 5.000
+ImageButton_6.Position = UDim2.new(-0.0020414032, 0, 0.203071356, 0)
+ImageButton_6.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_6.Image = "http://www.roblox.com/asset/?id=11254507285"
+ImageButton_6.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254507285"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_6.CornerRadius = UDim.new(0, 13)
+UICorner_6.Parent = ImageButton_6
+
+ImageButton_7.Parent = ScrollingFrame
+ImageButton_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_7.BackgroundTransparency = 5.000
+ImageButton_7.Position = UDim2.new(0, 0, 0.135457754, 0)
+ImageButton_7.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_7.Image = "http://www.roblox.com/asset/?id=11254511108"
+ImageButton_7.MouseButton1Down:Connect(function()
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254511108"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_7.CornerRadius = UDim.new(0, 13)
+UICorner_7.Parent = ImageButton_7
+
+ImageButton_8.Parent = ScrollingFrame
+ImageButton_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_8.BackgroundTransparency = 5.000
+ImageButton_8.Position = UDim2.new(0.350746274, 0, 0.203071356, 0)
+ImageButton_8.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_8.Image = "http://www.roblox.com/asset/?id=11254503625"
+ImageButton_8.MouseButton1Down:Connect(function()
+	
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254503625"
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_8.CornerRadius = UDim.new(0, 13)
+UICorner_8.Parent = ImageButton_8
+
+ImageButton_9.Parent = ScrollingFrame
+ImageButton_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_9.BackgroundTransparency = 5.000
+ImageButton_9.Position = UDim2.new(0.681592047, 0, 0.134820402, 0)
+ImageButton_9.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_9.Image = "http://www.roblox.com/asset/?id=11254508358"
+ImageButton_9.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254508358"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_9.CornerRadius = UDim.new(0, 13)
+UICorner_9.Parent = ImageButton_9
+
+ImageButton_10.Parent = ScrollingFrame
+ImageButton_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_10.BackgroundTransparency = 5.000
+ImageButton_10.Position = UDim2.new(0.350746274, 0, 0.135457724, 0)
+ImageButton_10.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_10.Image = "http://www.roblox.com/asset/?id=11254509636"
+ImageButton_10.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254509636"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end) 
+
+UICorner_10.CornerRadius = UDim.new(0, 13)
+UICorner_10.Parent = ImageButton_10
+
+ImageButton_11.Parent = ScrollingFrame
+ImageButton_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_11.BackgroundTransparency = 5.000
+ImageButton_11.Position = UDim2.new(0.681592047, 0, 0.0676136464, 0)
+ImageButton_11.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_11.Image = "http://www.roblox.com/asset/?id=11254512812"
+ImageButton_11.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254512812"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end) 
+UICorner_11.CornerRadius = UDim.new(0, 13)
+UICorner_11.Parent = ImageButton_11
+
+ImageButton_12.Parent = ScrollingFrame
+ImageButton_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_12.BackgroundTransparency = 5.000
+ImageButton_12.Position = UDim2.new(0.681592107, 0, 0.266584516, 0)
+ImageButton_12.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_12.Image = "http://www.roblox.com/asset/?id=11254493790"
+ImageButton_12.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254493790"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_12.CornerRadius = UDim.new(0, 13)
+UICorner_12.Parent = ImageButton_12
+
+ImageButton_13.Parent = ScrollingFrame
+ImageButton_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_13.BackgroundTransparency = 5.000
+ImageButton_13.Position = UDim2.new(0.368159205, 0, 0.266584516, 0)
+ImageButton_13.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_13.Image = "http://www.roblox.com/asset/?id=11254496355"
+ImageButton_13.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254496355"
+
+	game.CoreGui.IAPortable:Destroy()
+
+end)
+
+UICorner_13.CornerRadius = UDim.new(0, 13)
+UICorner_13.Parent = ImageButton_13
+
+ImageButton_14.Parent = ScrollingFrame
+ImageButton_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_14.BackgroundTransparency = 5.000
+ImageButton_14.Position = UDim2.new(1.49011612e-08, 0, 0.266584545, 0)
+ImageButton_14.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_14.Image = "http://www.roblox.com/asset/?id=11254498045"
+ImageButton_14.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254498045"
+
+
+end)
+
+UICorner_14.CornerRadius = UDim.new(0, 13)
+UICorner_14.Parent = ImageButton_14
+
+ImageButton_15.Parent = ScrollingFrame
+ImageButton_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_15.BackgroundTransparency = 5.000
+ImageButton_15.Position = UDim2.new(0.681592047, 0, 0.198479414, 0)
+ImageButton_15.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_15.Image = "http://www.roblox.com/asset/?id=11254500019"
+ImageButton_15.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254500019"
+
+
+end)
+
+UICorner_15.CornerRadius = UDim.new(0, 13)
+UICorner_15.Parent = ImageButton_15
+
+ImageButton_16.Parent = ScrollingFrame
+ImageButton_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_16.BackgroundTransparency = 5.000
+ImageButton_16.Position = UDim2.new(0.368159205, 0, 0.334674358, 0)
+ImageButton_16.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_16.Image = "http://www.roblox.com/asset/?id=11254490037"
+ImageButton_16.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254490037"
+
+
+end)
+
+UICorner_16.CornerRadius = UDim.new(0, 13)
+UICorner_16.Parent = ImageButton_16
+
+ImageButton_17.Parent = ScrollingFrame
+ImageButton_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_17.BackgroundTransparency = 5.000
+ImageButton_17.Position = UDim2.new(0.681592047, 0, 0.334037036, 0)
+ImageButton_17.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_17.Image = "http://www.roblox.com/asset/?id=11254489077"
+ImageButton_17.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254489077"
+
+
+end)
+
+UICorner_17.CornerRadius = UDim.new(0, 13)
+UICorner_17.Parent = ImageButton_17
+
+ImageButton_18.Parent = ScrollingFrame
+ImageButton_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_18.BackgroundTransparency = 5.000
+ImageButton_18.Position = UDim2.new(0, 0, 0.334674358, 0)
+ImageButton_18.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_18.Image = "http://www.roblox.com/asset/?id=11254491903"
+ImageButton_18.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254491903"
+
+
+end)
+
+UICorner_18.CornerRadius = UDim.new(0, 13)
+UICorner_18.Parent = ImageButton_18
+
+ImageButton_19.Parent = ScrollingFrame
+ImageButton_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_19.BackgroundTransparency = 5.000
+ImageButton_19.Position = UDim2.new(0.681592047, 0, 0.402710259, 0)
+ImageButton_19.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_19.Image = "http://www.roblox.com/asset/?id=11254484536"
+ImageButton_19.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254484536"
+
+
+end)
+
+UICorner_19.CornerRadius = UDim.new(0, 13)
+UICorner_19.Parent = ImageButton_19
+
+ImageButton_20.Parent = ScrollingFrame
+ImageButton_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_20.BackgroundTransparency = 5.000
+ImageButton_20.Position = UDim2.new(0.368159205, 0, 0.402072877, 0)
+ImageButton_20.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_20.Image = "http://www.roblox.com/asset/?id=11254486532"
+ImageButton_20.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254486532"
+
+
+end)
+
+UICorner_20.CornerRadius = UDim.new(0, 13)
+UICorner_20.Parent = ImageButton_20
+
+ImageButton_21.Parent = ScrollingFrame
+ImageButton_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_21.BackgroundTransparency = 5.000
+ImageButton_21.Position = UDim2.new(0, 0, 0.402579725, 0)
+ImageButton_21.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_21.Image = "http://www.roblox.com/asset/?id=11254487874"
+ImageButton_21.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254487874"
+
+
+end)
+
+UICorner_21.CornerRadius = UDim.new(0, 13)
+UICorner_21.Parent = ImageButton_21
+
+ImageButton_22.Parent = ScrollingFrame
+ImageButton_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_22.BackgroundTransparency = 5.000
+ImageButton_22.Position = UDim2.new(0, 0, 0.469686478, 0)
+ImageButton_22.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_22.Image = "http://www.roblox.com/asset/?id=11254478184"
+ImageButton_22.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254478184"
+
+
+end)
+
+UICorner_22.CornerRadius = UDim.new(0, 13)
+UICorner_22.Parent = ImageButton_22
+
+ImageButton_23.Parent = ScrollingFrame
+ImageButton_23.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_23.BackgroundTransparency = 5.000
+ImageButton_23.Position = UDim2.new(0, 0, 0.537882805, 0)
+ImageButton_23.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_23.Image = "http://www.roblox.com/asset/?id=11255290556"
+ImageButton_23.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255290556"
+
+
+end)
+
+UICorner_23.CornerRadius = UDim.new(0, 13)
+UICorner_23.Parent = ImageButton_23
+
+ImageButton_24.Parent = ScrollingFrame
+ImageButton_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_24.BackgroundTransparency = 5.000
+ImageButton_24.Position = UDim2.new(0.681592047, 0, 0.469686478, 0)
+ImageButton_24.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_24.Image = "http://www.roblox.com/asset/?id=11255291403"
+ImageButton_24.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255291403"
+
+
+end)
+
+UICorner_24.CornerRadius = UDim.new(0, 13)
+UICorner_24.Parent = ImageButton_24
+
+ImageButton_25.Parent = ScrollingFrame
+ImageButton_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_25.BackgroundTransparency = 5.000
+ImageButton_25.Position = UDim2.new(0.363184094, 0, 0.469686478, 0)
+ImageButton_25.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_25.Image = "http://www.roblox.com/asset/?id=11255291933"
+ImageButton_25.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255291933"
+
+
+end)
+
+UICorner_25.CornerRadius = UDim.new(0, 13)
+UICorner_25.Parent = ImageButton_25
+
+ImageButton_26.Parent = ScrollingFrame
+ImageButton_26.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_26.BackgroundTransparency = 5.000
+ImageButton_26.Position = UDim2.new(0.681592047, 0, 0.537882805, 0)
+ImageButton_26.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_26.Image = "http://www.roblox.com/asset/?id=11255289654"
+ImageButton_26.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255289654"
+
+end)
+
+UICorner_26.CornerRadius = UDim.new(0, 13)
+UICorner_26.Parent = ImageButton_26
+
+ImageButton_27.Parent = ScrollingFrame
+ImageButton_27.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_27.BackgroundTransparency = 5.000
+ImageButton_27.Position = UDim2.new(0.365671664, 0, 0.537882805, 0)
+ImageButton_27.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_27.Image = "http://www.roblox.com/asset/?id=11255289654"
+ImageButton_27.MouseButton1Down:Connect(function()
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255289654"
+
+
+end)
+UICorner_27.CornerRadius = UDim.new(0, 13)
+UICorner_27.Parent = ImageButton_27
+
+ImageButton_28.Parent = ScrollingFrame
+ImageButton_28.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_28.BackgroundTransparency = 5.000
+ImageButton_28.Position = UDim2.new(0, 0, 0.606079102, 0)
+ImageButton_28.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_28.Image = "http://www.roblox.com/asset/?id=11255288695"
+ImageButton_28.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255288695"
+
+
+end)
+
+UICorner_28.CornerRadius = UDim.new(0, 13)
+UICorner_28.Parent = ImageButton_28
+
+ImageButton_29.Parent = ScrollingFrame
+ImageButton_29.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_29.BackgroundTransparency = 5.000
+ImageButton_29.Position = UDim2.new(0.363184094, 0, 0.606079102, 0)
+ImageButton_29.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_29.Image = "http://www.roblox.com/asset/?id=11255288196"
+ImageButton_29.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255288196"
+
+
+end)
+UICorner_29.CornerRadius = UDim.new(0, 13)
+UICorner_29.Parent = ImageButton_29
+
+ImageButton_30.Parent = ScrollingFrame
+ImageButton_30.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_30.BackgroundTransparency = 5.000
+ImageButton_30.Position = UDim2.new(0.681592047, 0, 0.606079102, 0)
+ImageButton_30.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_30.Image = "http://www.roblox.com/asset/?id=11255414521"
+ImageButton_30.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255414521"
+
+
+end)
+
+UICorner_30.CornerRadius = UDim.new(0, 13)
+UICorner_30.Parent = ImageButton_30
+
+ImageButton_31.Parent = ScrollingFrame
+ImageButton_31.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_31.BackgroundTransparency = 5.000
+ImageButton_31.Position = UDim2.new(0.681592047, 0, 0.674275398, 0)
+ImageButton_31.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_31.Image = "http://www.roblox.com/asset/?id=11255288196"
+ImageButton_31.MouseButton1Down:Connect(function()
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255288196"
+
+
+end)
+UICorner_31.CornerRadius = UDim.new(0, 13)
+UICorner_31.Parent = ImageButton_31
+
+ImageButton_32.Parent = ScrollingFrame
+ImageButton_32.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_32.BackgroundTransparency = 5.000
+ImageButton_32.Position = UDim2.new(0.363184094, 0, 0.674275398, 0)
+ImageButton_32.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_32.Image = "http://www.roblox.com/asset/?id=11254528501"
+ImageButton_32.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11254528501"
+
+
+end)
+
+UICorner_32.CornerRadius = UDim.new(0, 13)
+UICorner_32.Parent = ImageButton_32
+
+ImageButton_33.Parent = ScrollingFrame
+ImageButton_33.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_33.BackgroundTransparency = 5.000
+ImageButton_33.Position = UDim2.new(0, 0, 0.674275398, 0)
+ImageButton_33.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_33.Image = "http://www.roblox.com/asset/?id=11255415042"
+ImageButton_33.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255415042"
+
+
+end)
+
+UICorner_33.CornerRadius = UDim.new(0, 13)
+UICorner_33.Parent = ImageButton_33
+
+ImageButton_34.Parent = ScrollingFrame
+ImageButton_34.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_34.BackgroundTransparency = 5.000
+ImageButton_34.Position = UDim2.new(0.681592047, 0, 0.740559638, 0)
+ImageButton_34.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_34.Image = "http://www.roblox.com/asset/?id=11255415514"
+ImageButton_34.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255415514"
+
+
+end)
+
+UICorner_34.CornerRadius = UDim.new(0, 13)
+UICorner_34.Parent = ImageButton_34
+
+ImageButton_35.Parent = ScrollingFrame
+ImageButton_35.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_35.BackgroundTransparency = 5.000
+ImageButton_35.Position = UDim2.new(0.350746274, 0, 0.742471695, 0)
+ImageButton_35.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_35.Image = "http://www.roblox.com/asset/?id=11255415880"
+ImageButton_35.MouseButton1Down:Connect(function()
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255415880"
+
+
+end)
+
+
+
+ImageButton_35.Parent = ScrollingFrame
+ImageButton_35.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_35.BackgroundTransparency = 5.000
+ImageButton_35.Position = UDim2.new(0.350746274, 0, 0.742471695, 0)
+ImageButton_35.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_35.Image = "http://www.roblox.com/asset/?id=11255415880"
+ImageButton_35.MouseButton1Down:Connect(function()
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255415880"
+
+
+end)
+UICorner_36.CornerRadius = UDim.new(0, 13)
+UICorner_36.Parent = ImageButton_36
+
+ImageButton_37.Parent = ScrollingFrame
+ImageButton_37.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_37.BackgroundTransparency = 5.000
+ImageButton_37.Position = UDim2.new(0, 0, 0.808755934, 0)
+ImageButton_37.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_37.Image = "http://www.roblox.com/asset/?id=11255416747"
+ImageButton_37.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255416747"
+
+
+end)
+
+UICorner_37.CornerRadius = UDim.new(0, 13)
+UICorner_37.Parent = ImageButton_37
+
+ImageButton_38.Parent = ScrollingFrame
+ImageButton_38.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_38.BackgroundTransparency = 5.000
+ImageButton_38.Position = UDim2.new(0, 0, 0.876952231, 0)
+ImageButton_38.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_38.Image = "http://www.roblox.com/asset/?id=11255466947"
+ImageButton_38.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255466947"
+
+
+end)
+
+UICorner_38.CornerRadius = UDim.new(0, 13)
+UICorner_38.Parent = ImageButton_38
+
+ImageButton_39.Parent = ScrollingFrame
+ImageButton_39.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_39.BackgroundTransparency = 5.000
+ImageButton_39.Position = UDim2.new(0.681592047, 0, 0.808755934, 0)
+ImageButton_39.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_39.Image = "http://www.roblox.com/asset/?id=11255468212"
+ImageButton_39.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255468212"
+
+
+end)
+
+UICorner_39.CornerRadius = UDim.new(0, 13)
+UICorner_39.Parent = ImageButton_39
+
+ImageButton_40.Parent = ScrollingFrame
+ImageButton_40.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageButton_40.BackgroundTransparency = 5.000
+ImageButton_40.Position = UDim2.new(0.350746274, 0, 0.808755934, 0)
+ImageButton_40.Size = UDim2.new(0, 108, 0, 107)
+ImageButton_40.Image = "http://www.roblox.com/asset/?id=11255469888"
+ImageButton_40.MouseButton1Down:Connect(function()
+	
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local cursor = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+cursor.Name = "cursor"
+cursor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+cursor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageLabel.Parent = cursor
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 5.000
+ImageLabel.Position = UDim2.new(0.486000001, 0, 0.469999999, 0)
+ImageLabel.Size = UDim2.new(0, 50, 0, 50)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=11255469888"
+
+
+end)
+
+UICorner_40.CornerRadius = UDim.new(0, 13)
+UICorner_40.Parent = ImageButton_40
+
+
+TextButton_2.Parent = ScrollingFrame
+TextButton_2.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+TextButton_2.BorderColor3 = Color3.fromRGB(35, 35, 35)
+TextButton_2.Position = UDim2.new(0.365671635, 0, 0.894570053, 0)
+TextButton_2.Size = UDim2.new(0, 241, 0, 92)
+TextButton_2.Font = Enum.Font.SourceSans
+TextButton_2.Text = "Destroy all cursor"
+TextButton_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.TextScaled = true
+TextButton_2.TextSize = 14.000
+TextButton_2.TextWrapped = true
+TextButton_2.MouseButton1Down:Connect(function()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+	game.Players.LocalPlayer.PlayerGui.cursor:Destroy()
+
+end)
+
+
+UICorner_41.CornerRadius = UDim.new(0, 13)
+UICorner_41.Parent = Frame
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 5.000
+TextLabel.Position = UDim2.new(-9.31322575e-10, 0, 0.0141062597, 0)
+TextLabel.Size = UDim2.new(0, 405, 0, 64)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "Cursor Changer"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+TextLabel_2.Parent = Frame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 5.000
+TextLabel_2.Position = UDim2.new(0.024630541, 0, 0, 0)
+TextLabel_2.Size = UDim2.new(0, 71, 0, 16)
+TextLabel_2.Font = Enum.Font.SourceSans
+TextLabel_2.Text = "By Trip hub"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+
+TextButton.Parent = Frame
+TextButton.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+TextButton.Position = UDim2.new(0.847537458, 0, 0, 0)
+TextButton.Size = UDim2.new(0, 61, 0, 29)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.Text = "X"
+TextButton.TextColor3 = Color3.fromRGB(255, 0, 0)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+TextButton.MouseButton1Down:Connect(function()
+	Cur:Destroy()
+end)
+
+UICorner_42.CornerRadius = UDim.new(0, 13)
+UICorner_42.Parent = TextButton
